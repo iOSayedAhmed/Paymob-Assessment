@@ -14,4 +14,7 @@ This repository contains solutions to specific programming challenges implemente
 2. Open the playground files in Xcode.
 3. Run each playground file to see the output of the solution functions.
 
+## Note: If you want to test all problems in one place
+
+please choose the `Feat_AllSolution branch` and you will find a `AllSolutions.playground` file .
 
