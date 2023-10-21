@@ -7,6 +7,7 @@ This repository contains solutions to specific programming challenges implemente
 - `FirstProblem.playground`
 - `SecondProblem.playground`
 - `SecondProblem.playground`
+- `AllSolutions.playground`
 
 ## Getting Started
 
@@ -14,4 +15,6 @@ This repository contains solutions to specific programming challenges implemente
 2. Open the playground files in Xcode.
 3. Run each playground file to see the output of the solution functions.
 
-## Note: If you want to test each problem individually, please choose the 'main branch'
+## Note: If you want to test each problem individually
+ 
+ please choose the `Main branch`
